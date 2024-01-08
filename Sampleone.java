@@ -1,5 +1,3 @@
-package selenium;
-
 public class Sampleone {
 
 	public static void main(String[] args) {
